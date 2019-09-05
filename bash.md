@@ -1,4 +1,6 @@
 # BASH Commands
+## `pwd` :show the working directory
+---
 ## `ls` :list files in current directory
 * `ls -a` :lists all files (including hidden files)
 * `ls ..` :list all files one directory level up
@@ -26,5 +28,6 @@
 ---
 ## `command -v` :verify a command is available
 ---
+## `git init` :
 ## `git config --global username "username"` : 
 ## `git config --global user.email "emailaddress"` :
