@@ -27,10 +27,16 @@
 * `mv filename newfilename` :rename a file
 * `mv filename ..` :move file one directory level up
 * `mv filename .` :move file to current directory
+* can move more than one file at a time.
+---
+## `man` :gives a manual for a command
 ---
 ## `code` :opens visual studio code from terminal
 * can open a file or directory in vs code
   * ex: `code .` `code bash.md`
+---
+## `cp` :copy a file
+* `cp -r` :copy a directory
 ---
 ## `command -v` :verify a command is available
 ---
