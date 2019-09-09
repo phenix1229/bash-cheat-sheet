@@ -6,8 +6,10 @@
 * `ls ..` :list all files one directory level up
 ---
 ## `mkdir` :make new directory. 
-* can chain directory names to create more than one at a time.
+* can chain directory names to create more than one at a time in an existing location/directory.
     * ex: `mkdir directory directory`
+* `mkdir -p` :creates entire path, including parent directories
+  * ex: `mkdir -p directory-1/subdirectory-1/subdirectory-2`
 ---
 ## `cd` :change directory
 * `cd ..` :go up one directory level
@@ -29,5 +31,5 @@
 ## `command -v` :verify a command is available
 ---
 ## `git init` :
-## `git config --global username "username"` : 
+## `git config --global user.name "username"` : 
 ## `git config --global user.email "emailaddress"` :
