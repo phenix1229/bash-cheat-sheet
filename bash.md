@@ -28,6 +28,10 @@
 * `mv filename ..` :move file one directory level up
 * `mv filename .` :move file to current directory
 ---
+## `code` :opens visual studio code from terminal
+* can open a file or directory in vs code
+  * ex: `code .` `code bash.md`
+---
 ## `command -v` :verify a command is available
 ---
 ## `git config --global user.name "username"` : 
