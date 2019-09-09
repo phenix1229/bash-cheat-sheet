@@ -43,6 +43,7 @@
 ## `git config --global user.name "username"` : 
 ## `git config --global user.email "emailaddress"` :
 ## `git init` :
+## `git clone` :copies repository into local directory
 ## `git add file or directory` :
 ## `git commit -m "message"` :
 ## `git push` :
