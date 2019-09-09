@@ -30,6 +30,9 @@
 ---
 ## `command -v` :verify a command is available
 ---
-## `git init` :
 ## `git config --global user.name "username"` : 
 ## `git config --global user.email "emailaddress"` :
+## `git init` :
+## `git add file or directory` :
+## `git commit -m "message"` :
+## `git push` :
